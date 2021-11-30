@@ -559,6 +559,8 @@ section {
   background-color: #D9BBF9;
 }
 
+
+
 /*--------------------------------------------------------------
 # My Resume
 --------------------------------------------------------------*/
@@ -636,26 +638,14 @@ section {
   background: #D9BBF9;
 }
 
-.services .icon-skills {
-  margin: 0 auto 20px auto;
-  padding-top: 17px;
-  display: inline-block;
-  text-align: center;
-  border-radius: 50%;
-  width: 72px;
-  height: 72px;
-}
+
 .services .icon i {
   font-size: 36px;
   line-height: 1;
   color: ##824C71;
 }
 
-.services .icon-skills i {
-  font-size: 36px;
-  line-height: 1;
-  color: ##824C71;
-}
+
 .services .title {
   font-weight: 700;
   margin-bottom: 15px;
