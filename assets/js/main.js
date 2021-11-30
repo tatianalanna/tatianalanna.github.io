@@ -246,3 +246,10 @@
   });
 
 })()
+
+let typed = new Typed(".typing", {
+  strings: ["WEB DEVELOPER", "GRAPHIC DESIGNER", "SOCIAL MEDIA MANAGER"],
+  typeSpeed: 100,
+  backSpeed: 60,
+  loop: true,
+});
